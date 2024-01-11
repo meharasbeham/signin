@@ -1,0 +1,27 @@
+body{
+  
+  background-color: bisque;
+}
+.container{
+  align-items: center;
+  justify-content: center;
+  margin:auto;
+  margin-top: 90px;
+  padding: 20px;
+  background-color: rgb(238, 155, 95);
+  height: 300px;
+  width: 300px;
+text-align: center;
+font-weight: bold;
+color: rgb(66, 60, 60);
+border-radius:20px;
+}
+.form-label{
+padding: 10px;
+  align-items: center;
+  justify-content: center;
+}
+button:hover{
+  background-color: rgb(172, 172, 226);
+  
+}
